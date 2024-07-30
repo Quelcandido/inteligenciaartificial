@@ -1,2 +1,3 @@
-<script src="script.js"></script>
-const caixaPrincipal = document.querySelector(".caixa-principal")
+const caixaPrincipal = document.querySelector(".caixaprincipal");
+const caixaPerguntas = document.querySelector (".caixa-perguntas");
+conts caixaAlternativas + document.querySelwctor (".caixa-alternativas");
